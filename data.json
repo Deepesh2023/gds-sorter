@@ -1,0 +1,138 @@
+{
+  "title": "NSH1 - AIRSIDE TE (Updated)",
+  "source": "list.jpeg",
+  "note": "APTMO (Airport Transit Mail Office) air-route allocations. CBPO = Central Base Post Office (Army Postal Service).",
+  "total": 81,
+  "groups": [
+    {
+      "name": "DELHI APTMO",
+      "airport": "Indira Gandhi International Airport",
+      "iata": "DEL",
+      "entries": [
+        "1 CBPO",
+        "Agra NSH",
+        "Ajmer NSH",
+        "Ambala NSH",
+        "Amritsar NSH",
+        "Bareilly NSH",
+        "Bhopal NSH",
+        "Chandigarh NSH",
+        "Dehradun NSH",
+        "Ghaziabad NSH",
+        "Gorakhpur NSH",
+        "Gurgaon NSH",
+        "Gwalior NSH",
+        "Jaipur NSH",
+        "Jalandhar NSH",
+        "Jammu NSH",
+        "Jodhpur NSH",
+        "Kanpur NSH",
+        "Karnal NSH",
+        "Lucknow NSH",
+        "Ludhiana NSH",
+        "Moradabad NSH",
+        "New Delhi NSH",
+        "Srinagar NSH",
+        "Pathankot NSH",
+        "Prayagraj NSH",
+        "Rohtak NSH",
+        "Shimla NSH",
+        "Varanasi NSH",
+        "Rudrapur NSH"
+      ]
+    },
+    {
+      "name": "APTMO MUMBAI",
+      "airport": "Chhatrapati Shivaji Maharaj International Airport",
+      "iata": "BOM",
+      "entries": [
+        "Aurangabad NSH",
+        "Barauni NSH",
+        "Berhampur NSH",
+        "Bhubaneswar NSH",
+        "Dhanbad NSH",
+        "Gaya NSH",
+        "Indore NSH",
+        "Jabalpur NSH",
+        "Jamshedpur NSH",
+        "Mumbai NSH",
+        "Muzaffarpur NSH",
+        "Nagpur NSH",
+        "Panaji NSH",
+        "Patna NSH",
+        "Pune NSH",
+        "Raipur NSH",
+        "Ranchi NSH",
+        "Rourkela NSH",
+        "Sambalpur NSH",
+        "Thane NSH",
+        "Nashik Road NSH"
+      ]
+    },
+    {
+      "name": "GUWAHATI TMO",
+      "airport": "Lokpriya Gopinath Bordoloi International Airport",
+      "iata": "GAU",
+      "entries": [
+        "Agartala NSH",
+        "Aizawl NSH",
+        "Dibrugarh NSH",
+        "Dimapur NSH",
+        "Guwahati NSH",
+        "Imphal NSH",
+        "Itanagar NSH",
+        "Shillong NSH"
+      ]
+    },
+    {
+      "name": "SHAMSHABAD TMO",
+      "airport": "Rajiv Gandhi International Airport",
+      "iata": "HYD",
+      "entries": [
+        "Kurnool NSH",
+        "Tirupati NSH",
+        "Vijayawada NSH",
+        "Visakhapatnam NSH",
+        "Warangal NSH",
+        "Hyderabad NSH"
+      ]
+    },
+    {
+      "name": "KOLKATA APTMO",
+      "airport": "Netaji Subhas Chandra Bose International Airport",
+      "iata": "CCU",
+      "entries": [
+        "Burdwan NSH",
+        "Kharagpur NSH",
+        "Kolkata NSH",
+        "Siliguri NSH",
+        "2 CBPO"
+      ]
+    },
+    {
+      "name": "BENGALURU NSH",
+      "airport": "Kempegowda International Airport",
+      "iata": "BLR",
+      "entries": [
+        "Arsikere NSH",
+        "Belagavi NSH",
+        "Hubballi Dharwad NSH",
+        "Kalaburagi NSH",
+        "Mysuru NSH",
+        "Port Blair NSH",
+        "Bengaluru NSH"
+      ]
+    },
+    {
+      "name": "AHMEDABAD TMO",
+      "airport": "Sardar Vallabhbhai Patel International Airport",
+      "iata": "AMD",
+      "entries": [
+        "Ahmedabad NSH",
+        "Rajkot NSH",
+        "Surat NSH",
+        "Vadodara NSH"
+      ]
+    }
+  ]
+}

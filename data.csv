@@ -1,0 +1,82 @@
+group,airport,iata,seq,facility
+DELHI APTMO,Indira Gandhi International Airport,DEL,1,1 CBPO
+DELHI APTMO,Indira Gandhi International Airport,DEL,2,Agra NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,3,Ajmer NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,4,Ambala NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,5,Amritsar NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,6,Bareilly NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,7,Bhopal NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,8,Chandigarh NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,9,Dehradun NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,10,Ghaziabad NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,11,Gorakhpur NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,12,Gurgaon NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,13,Gwalior NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,14,Jaipur NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,15,Jalandhar NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,16,Jammu NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,17,Jodhpur NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,18,Kanpur NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,19,Karnal NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,20,Lucknow NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,21,Ludhiana NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,22,Moradabad NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,23,New Delhi NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,24,Srinagar NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,25,Pathankot NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,26,Prayagraj NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,27,Rohtak NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,28,Shimla NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,29,Varanasi NSH
+DELHI APTMO,Indira Gandhi International Airport,DEL,30,Rudrapur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,1,Aurangabad NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,2,Barauni NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,3,Berhampur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,4,Bhubaneswar NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,5,Dhanbad NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,6,Gaya NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,7,Indore NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,8,Jabalpur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,9,Jamshedpur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,10,Mumbai NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,11,Muzaffarpur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,12,Nagpur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,13,Panaji NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,14,Patna NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,15,Pune NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,16,Raipur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,17,Ranchi NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,18,Rourkela NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,19,Sambalpur NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,20,Thane NSH
+APTMO MUMBAI,Chhatrapati Shivaji Maharaj International Airport,BOM,21,Nashik Road NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,1,Agartala NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,2,Aizawl NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,3,Dibrugarh NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,4,Dimapur NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,5,Guwahati NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,6,Imphal NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,7,Itanagar NSH
+GUWAHATI TMO,Lokpriya Gopinath Bordoloi International Airport,GAU,8,Shillong NSH
+SHAMSHABAD TMO,Rajiv Gandhi International Airport,HYD,1,Kurnool NSH
+SHAMSHABAD TMO,Rajiv Gandhi International Airport,HYD,2,Tirupati NSH
+SHAMSHABAD TMO,Rajiv Gandhi International Airport,HYD,3,Vijayawada NSH
+SHAMSHABAD TMO,Rajiv Gandhi International Airport,HYD,4,Visakhapatnam NSH
+SHAMSHABAD TMO,Rajiv Gandhi International Airport,HYD,5,Warangal NSH
+SHAMSHABAD TMO,Rajiv Gandhi International Airport,HYD,6,Hyderabad NSH
+KOLKATA APTMO,Netaji Subhas Chandra Bose International Airport,CCU,1,Burdwan NSH
+KOLKATA APTMO,Netaji Subhas Chandra Bose International Airport,CCU,2,Kharagpur NSH
+KOLKATA APTMO,Netaji Subhas Chandra Bose International Airport,CCU,3,Kolkata NSH
+KOLKATA APTMO,Netaji Subhas Chandra Bose International Airport,CCU,4,Siliguri NSH
+KOLKATA APTMO,Netaji Subhas Chandra Bose International Airport,CCU,5,2 CBPO
+BENGALURU NSH,Kempegowda International Airport,BLR,1,Arsikere NSH
+BENGALURU NSH,Kempegowda International Airport,BLR,2,Belagavi NSH
+BENGALURU NSH,Kempegowda International Airport,BLR,3,Hubballi Dharwad NSH
+BENGALURU NSH,Kempegowda International Airport,BLR,4,Kalaburagi NSH
+BENGALURU NSH,Kempegowda International Airport,BLR,5,Mysuru NSH
+BENGALURU NSH,Kempegowda International Airport,BLR,6,Port Blair NSH
+BENGALURU NSH,Kempegowda International Airport,BLR,7,Bengaluru NSH
+AHMEDABAD TMO,Sardar Vallabhbhai Patel International Airport,AMD,1,Ahmedabad NSH
+AHMEDABAD TMO,Sardar Vallabhbhai Patel International Airport,AMD,2,Rajkot NSH
+AHMEDABAD TMO,Sardar Vallabhbhai Patel International Airport,AMD,3,Surat NSH
+AHMEDABAD TMO,Sardar Vallabhbhai Patel International Airport,AMD,4,Vadodara NSH
